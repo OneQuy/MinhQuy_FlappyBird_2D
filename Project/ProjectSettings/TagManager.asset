@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Pipe
+  - PassPipe
+  - Obstacle
+  - Fire
   layers:
   - Default
   - TransparentFX
@@ -40,4 +44,10 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Objects
+    uniqueID: 1417159977
+    locked: 0
+  - name: UI
+    uniqueID: 3239018719
     locked: 0
